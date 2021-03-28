@@ -1,5 +1,5 @@
 # weather-data
-Create a visualization dashboard website using visualizations that were created in a past assignment. Specifically, plots on weather data.
+Create a visualization dashboard website using visualizations that were created in a past assignment. Specifically, plots on weather data. Here is the created website: https://jacquelinemeyer1000.github.io/web-design-challenge.io/index.html
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
